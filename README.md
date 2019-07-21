@@ -2,4 +2,4 @@
 This is an introduction about my project
 
 This is an image 
-![description of the Image](photo 1.jpg)
+![description of the Image](photo 1.JPG)
